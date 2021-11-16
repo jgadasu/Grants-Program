@@ -21,16 +21,39 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 Please provide the following:
 
--One Sentence Summary: Building the ultimate creators/innovators paradise. 
-- A brief description of your project.
+-One Sentence Summary
+Building the ultimate creators/innovators paradise. 
+
+-Description
+
+The company has a mission of building a creator's paradise and sees a powerful financial backbone as key to its goals. We have entered an age where creativity is increasingly becoming the driving force of economic value. There are now more than 100 million creators who engage, educate and entertain the global population daily. These creators now hold audiences of billions of people and are now able to make a living through their creations and passions. This new social rearrangement is formalizing in what has come to be
+described as the creator economy. This might come to be one of the most powerful social phenomenon since the industrial revolution.
+
+The problem is that this new economy lives in siloes with little intermediation or consistency in standards. It also lacks a robust financing backbone for new projects and for growth. Solving the problems of this new age economy and connecting all its participants will deliver the enduring foundations for its growth and stability. E21 is building the communication and financial technology infrastructure that would power this new age, the creator economy – today and forever.
+For investors and blockchain enthusiasts, this is a new coin to buy and project to support. For creators, this is a new way to earn a living. For audiences, these are new projects and creations. With E21 Coin as a central currency, E21 plans to focus on these key areas:
+
+• CE Finance: Protocol and engine to finance the right creators to grow and bring projects to life at the right cost of capital.
+
+• Data Fabric: Aggregation of necessary off-chain data to support protocol.
+
+• Trust Minimization and Permissionless: Decentralization, strong anchoring in high-security blockchains, cryptographic techniques and cryptoeconomic guarantees
+
+• Cryptoeconomic Security: Rigorously designing and robustly deploying mechanisms that ensure that there are strong economic incentives to behave reliably and correctly, even in the face of well-resourced adversaries.
+
+• Structured Yields: Ability for investors to get access to structured yields through creator assets.
+
 - An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
+
+Removing the need to rely on trust from centralized entities to push distribution of creative assets as well as to finance new projects. The Polkadot and Kusama principles are unique in that focus and would be essential in building this ecosystem
+
 - An indication of why your team is interested in creating this project.
+Our team is led by an economics grad from the London School of Economics who is interested in internet economics and how that can be decoupled from central banks around the world. We are a team of media professionals, economists, creators and technologists who are interested in creating a paradise for creators and innovators around the world to focus on what they do: create. 
 
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-- Full of Mockup of Platform: https://xd.adobe.com/view/1e10a04e-bb2e-47d6-8344-ccf5ba0adc53-4b43/screen/ba5679c6-29b1-41d0-8732-639fbff6a832?fullscreen
+- Full of Mockup of Platform: https://drive.google.com/file/d/1DV6Cx8jqoUmJKokPUafxQtm3oqdEner4/view
 - MVP Live : https://www.e21.tv
 
 ### Ecosystem Fit
@@ -38,7 +61,7 @@ We expect the teams to already have a solid idea about your project's expected f
 Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?: Our target audience is 
 - What need(s) does your project meet?
 - Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
   - If so, how is your project different?
@@ -48,19 +71,26 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Team members
 
-- Name of team leader
+- Name of team leader 
+ Edwin Gadasu
 - Names of team members
+Zaylan Jacobsen
+Chris Knight
+Shaun Parker
+Mario Mendes
+Scott Williams
+
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:**
+- **Contact Name:** Edwin Gadasu
+- **Contact Email:** jeg@e21coin.com
+- **Website:** https://www.e21coin.com
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+
+- **Registered Legal Entity:** N/A 
 
 ### Team's experience
 
@@ -70,7 +100,7 @@ If anyone on your team has applied for a grant at the Web3 Foundation previously
 
 ### Team Code Repos
 
-- https://github.com/<your_organisation>
+- https://github.com/jgadasu<your_organisation>
 - https://github.com/<your_organisation>/<project_1>
 - https://github.com/<your_organisation>/<project_2>
 
@@ -81,8 +111,12 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/devfailtwo/<Edwin Gadasu>
+- https://www.linkedin.com/in/zaylan-jacobsen-b24070113/<Zaylan Jacobsen>
+- https://www.linkedin.com/in/devfail/<Chris Knight>
+- https://www.linkedin.com/in/shaun-parker-586908104/<Shaun Parker>
+- https://www.linkedin.com/in/mario-mendes-30491820/<Mario Mendes>
+- https://www.linkedin.com/in/scottswilliams/<Scott WIlliams>
 
 ## Development Status :open_book:
 
